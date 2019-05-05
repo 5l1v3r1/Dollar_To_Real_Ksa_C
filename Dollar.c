@@ -1,6 +1,3 @@
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 void convertrd(float dollar);
@@ -18,3 +15,4 @@ void convertrd(float dollar)
     printf("\n%.2f Dollar = %2.f Saudi Reyal",dollar,saudi);
     return 0;
 }
+
